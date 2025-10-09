@@ -1,0 +1,15 @@
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+G:\Git\Backend-Tasks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll

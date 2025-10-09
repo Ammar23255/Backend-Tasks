@@ -1,0 +1,15 @@
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+G:\Git\Backend-Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
