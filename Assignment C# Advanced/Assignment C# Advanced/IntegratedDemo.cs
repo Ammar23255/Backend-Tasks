@@ -8,12 +8,7 @@ namespace DelegatesGenericsDemo
         public static void Run()
         {
             List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
-
-            Func<int, bool> filterEven = delegate (int n)
-            {
-                return n % 2 == 0;
-            };
-
+            Func<int, bool> filterEven = delegate (int n) {return n % 2 == 0;};
             foreach (var num in numbers)
             {
                 if (filterEven(num))
@@ -23,7 +18,6 @@ namespace DelegatesGenericsDemo
                         Number = num,
                         Square = num * num
                     };
-
                     Console.WriteLine($"Number: {result.Number}, Square: {result.Square}");
                 }
             }

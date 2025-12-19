@@ -10,12 +10,10 @@ namespace DelegatesGenericsDemo
             {
                 return a + b;
             };
-
             Operation multiply = delegate (int a, int b)
             {
                 return a * b;
             };
-
             Console.WriteLine("Addition Result: " + add(5, 3));
             Console.WriteLine("Multiplication Result: " + multiply(5, 3));
         }

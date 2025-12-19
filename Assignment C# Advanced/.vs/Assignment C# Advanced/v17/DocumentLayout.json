@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\genericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\genericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\genericdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\genericdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\integrateddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\integrateddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\genericdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\genericdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\genericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\genericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|g:\\git\\backend-tasks\\assignment c# advanced\\assignment c# advanced\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E7EB993-2517-4E42-9844-DF0B92DA0FF2}|Assignment C# Advanced\\Assignment C# Advanced.csproj|solutionrelative:assignment c# advanced\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IntegratedDemo.cs",
               "DocumentMoniker": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\IntegratedDemo.cs",
               "RelativeDocumentMoniker": "Assignment C# Advanced\\IntegratedDemo.cs",
               "ToolTip": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\IntegratedDemo.cs",
               "RelativeToolTip": "Assignment C# Advanced\\IntegratedDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T21:32:32.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GenericDemo.cs",
               "DocumentMoniker": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\GenericDemo.cs",
               "RelativeDocumentMoniker": "Assignment C# Advanced\\GenericDemo.cs",
               "ToolTip": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\GenericDemo.cs",
               "RelativeToolTip": "Assignment C# Advanced\\GenericDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T21:32:16.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GenericBox.cs",
               "DocumentMoniker": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\GenericBox.cs",
               "RelativeDocumentMoniker": "Assignment C# Advanced\\GenericBox.cs",
               "ToolTip": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\GenericBox.cs",
               "RelativeToolTip": "Assignment C# Advanced\\GenericBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T21:32:00.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "DelegateDemo.cs",
               "DocumentMoniker": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\DelegateDemo.cs",
               "RelativeDocumentMoniker": "Assignment C# Advanced\\DelegateDemo.cs",
               "ToolTip": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\DelegateDemo.cs",
               "RelativeToolTip": "Assignment C# Advanced\\DelegateDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T21:31:45.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OperationDelegate.cs",
               "DocumentMoniker": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\OperationDelegate.cs",
               "RelativeDocumentMoniker": "Assignment C# Advanced\\OperationDelegate.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\Git\\Backend-Tasks\\Assignment C# Advanced\\Assignment C# Advanced\\Program.cs",
               "RelativeDocumentMoniker": "Assignment C# Advanced\\Program.cs",
