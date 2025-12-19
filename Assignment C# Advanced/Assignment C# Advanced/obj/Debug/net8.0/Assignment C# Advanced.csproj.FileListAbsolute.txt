@@ -1,0 +1,15 @@
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\bin\Debug\net8.0\Assignment C# Advanced.exe
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\bin\Debug\net8.0\Assignment C# Advanced.deps.json
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\bin\Debug\net8.0\Assignment C# Advanced.runtimeconfig.json
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\bin\Debug\net8.0\Assignment C# Advanced.dll
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\bin\Debug\net8.0\Assignment C# Advanced.pdb
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.AssemblyInfoInputs.cache
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.AssemblyInfo.cs
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.csproj.CoreCompileInputs.cache
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.sourcelink.json
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.dll
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\refint\Assignment C# Advanced.dll
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.pdb
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\Assignment C# Advanced.genruntimeconfig.cache
+G:\Git\Backend-Tasks\Assignment C# Advanced\Assignment C# Advanced\obj\Debug\net8.0\ref\Assignment C# Advanced.dll

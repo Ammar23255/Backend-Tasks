@@ -1,0 +1,15 @@
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+G:\Git\Backend-Tasks\Task1\Task1\bin\Debug\net8.0\Task1.exe
+G:\Git\Backend-Tasks\Task1\Task1\bin\Debug\net8.0\Task1.deps.json
+G:\Git\Backend-Tasks\Task1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+G:\Git\Backend-Tasks\Task1\Task1\bin\Debug\net8.0\Task1.dll
+G:\Git\Backend-Tasks\Task1\Task1\bin\Debug\net8.0\Task1.pdb
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.dll
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\refint\Task1.dll
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.pdb
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+G:\Git\Backend-Tasks\Task1\Task1\obj\Debug\net8.0\ref\Task1.dll

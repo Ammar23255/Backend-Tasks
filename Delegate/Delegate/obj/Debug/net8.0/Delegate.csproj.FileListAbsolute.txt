@@ -1,0 +1,15 @@
+G:\Git\Backend-Tasks\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+G:\Git\Backend-Tasks\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+G:\Git\Backend-Tasks\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+G:\Git\Backend-Tasks\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+G:\Git\Backend-Tasks\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+G:\Git\Backend-Tasks\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
